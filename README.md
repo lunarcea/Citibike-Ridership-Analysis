@@ -5,7 +5,11 @@ This interactive Tableau dashboard provides comprehensive analysis of Citibike r
 
 <h2>Dashboard Components</h2>
 - **Geographic Analysis with Multiple Filter Options**: Interactive map visualization with customizable filters by year, month, user type, and age
-![geograph](https://github.com/user-attachments/assets/92cb4fbc-0524-41e3-994c-9170a2ce7840)
+TWB_Citibike_Analysis-master/
+├── README.md
+├── twb_image/
+│   └── geograph.jpg
+
 
 
 
