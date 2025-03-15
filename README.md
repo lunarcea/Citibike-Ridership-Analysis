@@ -5,7 +5,9 @@ This interactive Tableau dashboard provides comprehensive analysis of Citibike r
 
 <h2>Dashboard Components</h2>
 - **Geographic Analysis with Multiple Filter Options**: Interactive map visualization with customizable filters by year, month, user type, and age
-![geograph](https://github.com/user-attachments/assets/7a99ddd5-441f-4751-a2ea-87231189a81b)
+![geograph](https://github.com/user-attachments/assets/92cb4fbc-0524-41e3-994c-9170a2ce7840)
+
+
 
 
 - **Primary Station Usage and Journey Duration Metrics**: Analysis of most popular stations and trip duration patterns
