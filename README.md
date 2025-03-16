@@ -5,8 +5,6 @@ This project was submitted as the final project for the DATA 74000 (Data, Cultur
 
 <h2>Dashboard Components</h2>
 - **Geographic Analysis with Multiple Filter Options**: Interactive map visualization with customizable filters by year, month, user type, and age
-![geograph](https://github.com/user-attachments/assets/d8a1a5cd-bb33-4f50-b4b6-34c0d1c2eca9)
-
 
 - **Primary Station Usage and Journey Duration Metrics**: Analysis of most popular stations and trip duration patterns
 ![trip](https://github.com/user-attachments/assets/c0584a74-dcb4-4dfa-acb2-393ed560b904)
