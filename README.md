@@ -10,7 +10,7 @@ This project was submitted as the final project for the DATA 74000 (Data, Cultur
 - **Usage Patterns by Month and Time of Day**: Temporal analysis showing seasonal trends and peak usage hours
 - **Customer Base Statistical Overview**: Demographic breakdown of riders by gender, age, and subscription type
 - **User Adoption Progression**: Longitudinal analysis of ridership growth including COVID-19 impact assessment
-![image](https://github.com/user-attachments/assets/91527c45-6581-49fb-a5f7-f840d282d13d)
+https://github.com/lunarcea/Citibike-Ridership-Analysis/issues/1#issue-2922714018
 
 <h2>Technical Details</h2>
 - Data Source: Citibike trip data (2019-2020)
