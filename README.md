@@ -5,7 +5,7 @@ This project was submitted as the final project for the DATA 74000 (Data, Cultur
 
 <h2>Dashboard Components</h2>
 - **Geographic Analysis with Multiple Filter Options**: Interactive map visualization with customizable filters by year, month, user type, and age
-[https://drive.google.com/drive/u/0/folders/10zAGDuEJuEelDUKhvBWSUqOLht5W9UlX](https://drive.google.com/file/d/1YP3BZ3k3C8WbHuPaf_xYV6q9oemBCGf-/view?usp=drive_link)
+![geograph](https://drive.google.com/uc?export=view&id=1YP3BZ3k3C8WbHuPaf_xYV6q9oemBCGf-)
 
 
 
