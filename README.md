@@ -1,14 +1,12 @@
 <h1>Citibike-Ridership-Analysis</h1>
 
 <h2>Project Overview</h2>
-This interactive Tableau dashboard provides comprehensive analysis of Citibike ridership patterns, station utilization, demographic insights, and growth trends. The analysis focuses on identifying key usage patterns to support strategic decision-making for bike-sharing infrastructure and marketing initiatives.
+This project was submitted as the final project for the DATA 74000 (Data, Culture, and Society) course. This interactive Tableau dashboard provides comprehensive analysis of Citibike ridership patterns, station utilization, demographic insights, and growth trends. The analysis focuses on identifying key usage patterns to support strategic decision-making for bike-sharing infrastructure and marketing initiatives.
 
 <h2>Dashboard Components</h2>
 - **Geographic Analysis with Multiple Filter Options**: Interactive map visualization with customizable filters by year, month, user type, and age
-TWB_Citibike_Analysis-master/
-├── README.md
-├── twb_image/
-│   └── geograph.jpg
+![geograph](https://github.com/user-attachments/assets/821327ae-202f-4805-b91a-883951d6417b)
+
 
 
 
