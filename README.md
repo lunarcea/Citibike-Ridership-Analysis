@@ -5,13 +5,12 @@ This project was submitted as the final project for the DATA 74000 (Data, Cultur
 
 <h2>Dashboard Components</h2>
 - **Geographic Analysis with Multiple Filter Options**: Interactive map visualization with customizable filters by year, month, user type, and age
-![geograph](https://github.com/user-attachments/assets/75825e0b-f88b-4122-a4a1-0ee9c9a5af5a)
-
 - **Primary Station Usage and Journey Duration Metrics**: Analysis of most popular stations and trip duration patterns
 - **Highest and Lowest Traffic Departure and Arrival Locations**: Comparative analysis of top and bottom performing stations
 - **Usage Patterns by Month and Time of Day**: Temporal analysis showing seasonal trends and peak usage hours
 - **Customer Base Statistical Overview**: Demographic breakdown of riders by gender, age, and subscription type
 - **User Adoption Progression**: Longitudinal analysis of ridership growth including COVID-19 impact assessment
+![image](https://github.com/user-attachments/assets/91527c45-6581-49fb-a5f7-f840d282d13d)
 
 <h2>Technical Details</h2>
 - Data Source: Citibike trip data (2019-2020)
