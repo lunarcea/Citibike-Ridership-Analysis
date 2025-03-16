@@ -16,8 +16,8 @@ This project was submitted as the final project for the DATA 74000 (Data, Cultur
   
 - **User Adoption Progression**: Longitudinal analysis of ridership growth including COVID-19 impact assessment
 
-![geograph](./assets/geograph.jpg)
 
+![geograph](https://github.com/user-attachments/assets/ef3b1722-70eb-48ee-9df4-303f143f4df4)
 
 <h2>Technical Details</h2>
 - Data Source: Citibike trip data (2019-2020)
